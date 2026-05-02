@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nancy 👋  
+Senior Business Intelligence Developer | Epic-Certified | Power BI Architect
 
-<!--
-**nsaengkio/nsaengkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building enterprise-grade analytics solutions across healthcare and operational domains.  
+With 10 years of BI experience, I design semantic models, dataflows, SQL transformations, and interactive dashboards that drive decision-making at scale.
 
-Here are some ideas to get you started:
+## 🔧 Core Skills
+- Power BI (8 yrs): Advanced DAX, semantic modeling, RLS, performance tuning  
+- Power BI Dataflows (2.5 yrs): ETL pipelines, incremental refresh  
+- Tableau (10 yrs): LOD expressions, dashboard UX  
+- SQL (10 yrs): Window functions, stored procedures, optimization  
+- SSRS / SSMS (8 yrs): Paginated reporting  
+- Crystal Reports (5 yrs)  
+- Epic Databases: 7+ certifications across Clarity & Caboodle  
+- Data Architecture: Star schema design, dimensional modeling, KPI frameworks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- Power BI Healthcare Analytics Model  
+- Power BI Dataflows ETL Pipeline  
+- SQL Optimization Portfolio  
+- Power BI Clinical Dashboard  
+
+## 📫 Connect
+LinkedIn: www.linkedin.com/in/nancy-s-b0826217
+
+
+
