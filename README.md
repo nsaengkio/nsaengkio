@@ -7,7 +7,7 @@ With 10 years of BI experience, I design semantic models, dataflows, SQL transfo
 ## 🔧 Core Skills
 - Power BI (8 yrs): Advanced DAX, semantic modeling, RLS, performance tuning  
 - Power BI Dataflows (2.5 yrs): ETL pipelines, incremental refresh  
-- Tableau (10 yrs): LOD expressions, dashboard UX  
+- Tableau (6 yrs): LOD expressions, dashboard UX  
 - SQL (10 yrs): Window functions, stored procedures, views, optimization  
 - SSRS / SSMS (8 yrs): Paginated reporting  
 - Crystal Reports (5 yrs)  
