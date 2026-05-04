@@ -1,5 +1,5 @@
 # Hi, I'm Nancy 👋  
-Senior Business Intelligence Developer | Epic-Certified | Power BI Architect
+Business Intelligence Developer | Epic-Certified | Power BI Architect
 
 I specialize in building enterprise-grade analytics solutions across healthcare and operational domains.  
 With 10 years of BI experience, I design semantic models, dataflows, SQL transformations, reports and interactive dashboards that drive decision-making at scale.
